@@ -1,4 +1,6 @@
 # Bài tập giữa kỳ lớp Trí tuệ nhân tạo - INT3401E_2
+Chủ đề: Dự đoán lượng mưa từ dữ liệu Trạm Khí tượng tự động - AWS
+
 Link báo cáo: [Báo cáo giữa kỳ](https://drive.google.com/file/d/1Y-6VS7OPucP6l5SQgMk178c5hPWLFQ4R/view)
 ## Thành viên
 | Tên | MSSV | Lớp |
