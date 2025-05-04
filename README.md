@@ -7,7 +7,7 @@ Link báo cáo: [Báo cáo giữa kỳ](https://drive.google.com/file/d/1Y-6VS7O
 | :---: | :---: | :---: |
 | Ngô Duy Hiếu | 22028280 | K67-CS3 |
 | Nguyễn Hữu Đức | 22028184 | K67-CS1 |
-| Ngô Duy Hiếu | 22028290 | K67-CS3 |
+| Nguyễn Minh Quân | 22028290 | K67-CS3 |
 
 ## Các files
 <pre>
